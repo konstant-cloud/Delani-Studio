@@ -11,7 +11,7 @@ This web application allows users to know
 * JavaScript
 * Html
 * Css   
-* Git 
+* Git   
    
 ## Project Setup Installation
 
