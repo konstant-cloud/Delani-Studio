@@ -1,10 +1,10 @@
-# DElani Studio 
+# Delani Studio 
 
 ## Author   
 Hamza Salat        
    
 ## Project Description
-This web application allows users to know 
+This web application allows users to advertise it business 
 
 ## Technologies Used
 
