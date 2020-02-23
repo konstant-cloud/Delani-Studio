@@ -149,6 +149,14 @@ footer{
 img:hover{
     text-decoration: underline;
 }
+.none1{
+    display: none;
+    text-align: center;
+}
+.none2{
+    display: none;
+    text-align: center;
+}
 
 
 
