@@ -1,0 +1,159 @@
+.section1{
+    background: url(../images/h_img.jpg);
+    background-size: cover;
+    height: 500px;
+    
+    background-repeat: no-repeat;
+}
+
+.text1{
+    background: transparent;
+    text-align: center;
+    color: white;
+    
+}
+
+.studio{
+    font-size: 30px;
+    text-emphasis: bold;
+    text-align: center;
+    padding-left: 8cm;
+}
+.people{
+    text-align: center;
+    padding-left: 7cm;
+}
+.img{
+    padding-right: 12cm;
+}
+.sec2{
+    text-align: center;
+    font-size: smaller;
+    
+}
+.sec3{
+    background-image: url(../images/s_image.jpg);
+    background-size: cover;
+    padding: 20px;
+    margin: 11.5px;
+    height: 280px;
+    
+    
+    
+    
+}
+.text3{
+    background: transparent;
+    color: white;
+    text-align: center;
+    width: 1075px;
+    font-size: smaller;
+}
+.what{
+    text-align: center;
+}
+.none{
+    
+
+}
+.text4{
+    margin: 25px
+    
+}
+.col-md-4{
+    float: left;
+}
+.port{
+    text-align: center;
+    text-emphasis: bold;
+    font-size: 30px;
+}
+.sec5{
+    padding: 25px;
+    margin: 30px;
+    background-size: small;
+}
+.Email{
+    float: left;
+}
+.sec6{
+    background-image: url(../images/c_image.jpg);
+    background-size: cover;
+}
+.none{
+    text-align: center;
+    display: none;
+}
+.img{
+    padding-left: 130px;
+    text-align: center;
+}
+.imge{
+    padding-left: 10px;
+    text-align: center;
+    font-size: small;
+}
+#form{
+    background-image: url(../images/c_image.jpg);
+    background-size: cover;
+}
+#form1{
+    margin-left: 100px;
+    width: 700px;
+    width:90%;
+    margin-top: 10px;
+    background-size: cover
+
+
+}
+.text{
+    height: 300px;
+    width: 900px;
+    background: transparent;
+}
+.contact-us{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+}
+#email{
+    background: transparent;
+}
+#name{
+    background: transparent;
+    color: blue;
+}
+#form{
+    width: 1110px;
+}
+footer{
+    text-align: center;
+}
+.social{
+    text-align: center;
+}
+.imline{
+    width: 700px;
+}
+.secc5{
+    width: 1000px;
+    padding-left: 300px;
+}
+#submit{
+    color: white;
+}
+::placeholder{
+    color: white;
+}
+img:hover{
+    text-decoration: underline;
+}
+
+
+
+    
+    
+
+
+
