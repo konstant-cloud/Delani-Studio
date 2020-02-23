@@ -1,7 +1,7 @@
 # DElani Studio 
 
 ## Author   
-Hamza Salat      
+Hamza Salat        
    
 ## Project Description
 This web application allows users to know 
