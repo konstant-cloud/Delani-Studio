@@ -52,10 +52,7 @@
 .what{
     text-align: center;
 }
-.none{
-    
 
-}
 .text4{
     margin: 25px
     
@@ -83,6 +80,7 @@
 .none{
     text-align: center;
     display: none;
+    font-size: small;
 }
 .img{
     padding-left: 130px;
@@ -152,10 +150,18 @@ img:hover{
 .none1{
     display: none;
     text-align: center;
+    font-size: small;
 }
 .none2{
     display: none;
     text-align: center;
+    font-size: small;
+}
+.sec4{
+    padding-bottom: 3px;
+}
+body{
+    background-attachment: fixed;
 }
 
 
