@@ -21,6 +21,7 @@ You can get it on git-hub. From the repository, click + in the global sidebar an
 ## Live Link
    
 use link to see the web page
+( https://konstant-cloud.github.io/Delani-Studio/)
 
 
 ## Contact Information  
