@@ -142,7 +142,7 @@ footer{
     color: white;
 }
 ::placeholder{
-    color: white;
+    color:(white, white,white)
 }
 img:hover{
     text-decoration: underline;

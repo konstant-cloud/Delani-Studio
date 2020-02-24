@@ -31,9 +31,3 @@ $(document).ready(function() {
 });
 
 
-// function onclick() {
-//     var name = document.getElementById("name").Value;
-//     var email = document.getElementById("Email").Value;
-//     var type = document.getElementById("text").Value;
-//     alert("your message has been received");
-// }
