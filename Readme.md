@@ -30,3 +30,4 @@ Email ( adenhamza6301@gmail.com )
 ## License 
 
 This website is licensed under the terms of MIT licensing. Copyright (c) 2020 Hamza Salat.
+(https://opensource.org/licenses/MIT)
