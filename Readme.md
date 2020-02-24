@@ -11,7 +11,8 @@ This web application allows users to advertise it business
 * JavaScript
 * Html
 * Css   
-* Git   
+* Git 
+  
      
 ## Project Setup Installation
 
