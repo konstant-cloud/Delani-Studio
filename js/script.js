@@ -17,10 +17,23 @@ $(document).ready(function() {
     });
   });
 
+  $(document).ready(function(){
+    $('#form1').submit(function(event){
+        var display1 = $('input#name').val();
+        var display2 = $('input#email').val();
+        if(display1 && display2 != ''){
+            alert ('Thank you ' + display1 + ' your subscription is well received');
+        }else {
+            alert ('Invalid input');
+        }
+        event.preventDefault();
+    })
+});
 
-function onclick() {
-    var name = document.getElementById("name").Value;
-    var email = document.getElementById("Email").Value;
-    var type = document.getElementById("text").Value;
-    alert("your message has been received");
-}
+
+// function onclick() {
+//     var name = document.getElementById("name").Value;
+//     var email = document.getElementById("Email").Value;
+//     var type = document.getElementById("text").Value;
+//     alert("your message has been received");
+// }
